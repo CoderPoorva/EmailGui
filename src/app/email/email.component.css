@@ -1,0 +1,25 @@
+.card{
+    width: 30%;
+    margin: auto;
+    background-color: rgb(237, 237, 237);
+    padding: 15px 40px 15px 40px;
+    
+}
+.container{
+    margin-top: 30px;
+}
+
+.field{
+    width: 100%;
+}
+.textarea{
+    width: 100%;
+}
+.card h1{
+    text-align: center;
+    font-weight: bold;
+}
+.example-button-row{
+    display: flex;
+    justify-content: space-between;
+}
